@@ -1,5 +1,5 @@
 ## Route 1: /
-## Test of everything is working
+## Test if everything is working
 ## {"message":"Hello world"}
 
 ## Route 2: /translate
